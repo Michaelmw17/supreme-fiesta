@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[27],{104:function(a,t,e){},441:function(a,t,e){"use strict";e.r(t);e(0);var i=e(115),p=(e(104),e(3));t.default=function(a){a.image;return Object(p.jsx)(i.LazyLoadImage,{effect:"blur","max-age":"31536000",src:"./itc-logo-red.png",alt:"In The Cove",style:{display:"absolute",background:"#FFF",marginRight:"auto",marginTop:"15px",height:"100%",width:"100%",maxWidth:"90%",maxHeight:"80%",padding:"0 \u200b0 5px 25px"}})}}}]);
+//# sourceMappingURL=27.db9b5810.chunk.js.map

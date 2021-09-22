@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[26],{104:function(t,a,e){},442:function(t,a,e){"use strict";e.r(a);e(0);var i=e(115),n=(e(104),e(3));a.default=function(t){t.image;return Object(n.jsx)(i.LazyLoadImage,{effect:"blur",alt:"Neca",src:"./neca-nat-logo-text.png","max-age":"31536000",style:{display:"absolute",background:"#FFF",marginRight:"auto",height:"100%",width:"100%",maxWidth:"80%",maxHeight:"90%",left:"350px",postition:"inherit"}})}}}]);
+//# sourceMappingURL=26.0867f3f7.chunk.js.map
